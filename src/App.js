@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import './App.css';
+import './App.scss';
+
+// const source = process.env.NODE_ENV === 'production' ? '/api/endpoint' : process.env.REACT_APP_CALENDAR_API_URL
 
 class App extends Component {
   render() {

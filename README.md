@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [React App Rewire PostCSS](https://github.com/csstools/react-app-rewire-postcss)
 
 ## Available Scripts
 
